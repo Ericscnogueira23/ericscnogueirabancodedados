@@ -1,0 +1,425 @@
+Ano;Mês;Classificação;Fonte;Rubrica;Receita;Receita Mês (R$);Receita Ano (R$);Receita Orçada (R$)
+2026;02;10000000000;;;RECEITAS CORRENTES;515.319.890,25;984.549.322,56;4.773.581.000,00
+2026;02;11000000000;;;IMPOSTOS, TAXAS E CONTRIBUIÇÕES DE MELHORIA;291.690.557,67;418.418.286,40;1.624.916.000,00
+2026;02;11100000000;;;IMPOSTOS;268.492.590,61;392.556.620,05;1.575.764.000,00
+2026;02;11120000000;;;IMPOSTOS SOBRE O PATRIMÔNIO;197.136.722,65;223.503.672,13;595.860.000,00
+2026;02;11125000000;;;IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA;189.990.941,88;208.570.515,19;474.341.000,00
+2026;02;11125001001;0001;0019;Imposto sobre a Propriedade Predial Urbana;129.492.146,07;138.960.187,70;301.075.000,00
+2026;02;11125001002;0001;0027;Imposto sobre a Propriedade Territorial Urbana;54.390.967,45;56.272.707,71;101.642.000,00
+2026;02;11125002001;0001;1620;Imposto sobre a Propriedade Predial e Territorial Urbana - Multas e Juros;644.260,98;647.464,60;1.943.000,00
+2026;02;11125003001;0001;2410;Imposto sobre a Propriedade Predial e Territorial Urbana - Dívida Ativa;4.959.601,08;11.660.433,60;60.571.000,00
+2026;02;11125004001;0001;1670;Imposto sobre a Propriedade Predial e Territorial Urbana - Dívida Ativa - Multas e Juros;503.966,30;1.029.721,58;9.110.000,00
+2026;02;11125300000;;;IMPOSTOS SOBRE TRANSMISSÃO "INTER VIVOS" DE BENS IMÓVEIS E DE DIREITOS REAIS SOBRE IMÓVEIS;7.145.780,77;14.933.156,94;121.519.000,00
+2026;02;11125301001;0001;0248;Imposto sobre Transmissão “Inter Vivos” de Bens Imóveis e de Direitos Reais sobre Imóveis - Principal;7.145.604,92;14.931.533,03;121.485.000,00
+2026;02;11125302001;0001;1650;Imposto sobre Transmissão “Inter Vivos” de Bens Imóveis e de Direitos Reais sobre Imóveis - Multas e Juros;175,85;1.623,91;34.000,00
+2026;02;11130000000;;;IMPOSTOS SOBRE A RENDA E PROVENTOS DE QUALQUER NATUREZA;11.258.233,32;25.427.798,12;262.009.000,00
+2026;02;11130300000;;;IMPOSTO SOBRE A RENDA - RETIDO NA FONTE;11.258.233,32;25.427.798,12;262.009.000,00
+2026;02;11130310000;;;IMPOSTO SOBRE A RENDA - RETIDO NA FONTE - TRABALHO;6.890.613,33;17.616.091,65;208.151.000,00
+2026;02;11130311001;0001;1141;Imposto sobre a Renda - Retido na Fonte - Trabalho - Principal;6.890.613,33;17.616.091,65;119.320.000,00
+2026;02;11130311002;0001;2016;Imposto sobre a Renda - Retido na Fonte - Trabalho - Aposentados e Pensionistas;0,00;0,00;88.831.000,00
+2026;02;11130340000;;;IMPOSTO SOBRE A RENDA - RETIDO NA FONTE - OUTROS RENDIMENTOS;4.367.619,99;7.811.706,47;53.858.000,00
+2026;02;11130341001;0001;2018;Imposto sobre a Renda - Retido na Fonte - Outros Rendimentos ;4.367.619,99;7.811.706,47;53.858.000,00
+2026;02;11140000000;;;IMPOSTOS SOBRE A PRODUÇÃO E CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS;60.097.634,64;143.625.149,80;717.895.000,00
+2026;02;11145100000;;;IMPOSTOS SOBRE SERVIÇOS;60.097.634,64;143.625.149,80;717.895.000,00
+2026;02;11145110000;;;IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA - ISSQN;60.097.634,64;143.625.149,80;717.895.000,00
+2026;02;11145111001;0001;0035;Imposto sobre Serviços de Qualquer Natureza - Não Lançado;46.842.758,28;114.587.310,37;538.971.000,00
+2026;02;11145111002;0001;0221;Imposto sobre Serviços de Qualquer Natureza - Lançado;20.175,04;60.490,54;7.363.000,00
+2026;02;11145111003;0001;0222;Imposto sobre Serviços de Qualquer Natureza - Super Simples;11.656.112,00;25.773.532,78;147.773.000,00
+2026;02;11145111004;0001;1011;Imposto sobre Serviços de Qualquer Natureza - STN Convênio;137.524,04;268.868,32;2.914.000,00
+2026;02;11145112001;0001;1630;Imposto sobre Serviços de Qualquer Natureza - Multas e Juros;1.182,85;4.509,35;72.000,00
+2026;02;11145113001;0001;2445;Imposto sobre Serviços de Qualquer Natureza - Dívida Ativa;1.274.525,78;2.594.164,56;18.119.000,00
+2026;02;11145114001;0001;1680;Imposto sobre Serviços de Qualquer Natureza - Dívida Ativa - Multas e Juros;165.356,65;336.273,88;2.683.000,00
+2026;02;11200000000;;;TAXAS;23.197.967,06;25.861.666,35;49.150.000,00
+2026;02;11210000000;;;TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA;398.920,68;927.838,22;15.015.000,00
+2026;02;11210100000;;;TAXAS DE INSPEÇÃO, CONTROLE E FISCALIZAÇÃO;345.673,94;833.977,40;14.620.000,00
+2026;02;11210101001;0001;0043;Taxa de Licença para Localização;36.245,53;114.856,26;101.000,00
+2026;02;11210101002;0001;0051;Taxa de Fiscalização e Funcionamento;61.551,00;148.934,08;10.325.000,00
+2026;02;11210101003;0001;0078;Taxa de Licença para o Exercício do Comércio Ambulante;0,00;321,95;59.000,00
+2026;02;11210101004;0001;0086;Taxa de Licença Exec. Obras Partic., Arruam., Loteam., e Desmembramento;202.589,38;476.835,93;3.399.000,00
+2026;02;11210101005;0001;0094;Taxa  de Licença para Publicidade;483,06;2.576,32;368.000,00
+2026;02;11210101006;0001;0108;Taxa de Licença p/ Ocup. do Solo e Logradouros Públicos;39.961,09;75.583,30;112.000,00
+2026;02;11210101007;0001;0120;Taxa p/ Permissão de Uso do Solo/ Subsolo/ Aéreo;0,00;0,00;40.000,00
+2026;02;11210101008;0001;0350;Taxa de Conformidade de Obras e Serviços;0,00;0,00;26.000,00
+2026;02;11210102001;0001;1660;Taxas de Inspeção, Controle e Fiscalização - Multas e Juros;4.843,88;14.869,56;190.000,00
+2026;02;11215000000;;;TAXA DE FISCALIZAÇÃO DE VIGILÂNCIA SANITÁRIA;53.246,74;93.860,82;395.000,00
+2026;02;11215001001;0003;0330;Fundo Municipal de Saúde - Taxa de Fiscalização de Vigilância Sanitária;53.246,74;93.860,82;395.000,00
+2026;02;11220000000;;;TAXAS PELA PRESTAÇÃO DE SERVIÇOS;22.799.046,38;24.933.828,13;34.135.000,00
+2026;02;11220100000;;;TAXAS PELA PRESTAÇÃO DE SERVIÇOS;22.799.046,38;24.933.828,13;34.135.000,00
+2026;02;11220101001;0001;0140;Taxa de Coleta de Lixo;22.795.188,23;24.925.877,41;34.123.000,00
+2026;02;11220101002;0001;0116;Taxa de Expediente;3.832,98;7.892,00;6.000,00
+2026;02;11220101003;0001;0175;Taxa Apreensão, Dep. Bens, Alinh., Nivel. E Num. de Prédios;25,17;58,72;1.000,00
+2026;02;11220101004;0003;2607;Fundo Municipal de Saúde - Taxa de Manutenção - Centro de Controle de Zoonoses - CCZ;0,00;0,00;5.000,00
+2026;02;11300000000;;;CONTRIBUIÇÃO DE MELHORIA;0,00;0,00;2.000,00
+2026;02;11310000000;;;CONTRIBUIÇÃO DE MELHORIA;0,00;0,00;2.000,00
+2026;02;11315300000;;;CONTRIBUIÇÃO DE MELHORIA PARA PAVIMENTAÇÃO E OBRAS COMPLEMENTARES;0,00;0,00;2.000,00
+2026;02;11315301001;0001;0205;Contribuição de Melhoria para Pavimentação e Obras Complementares - Principal;0,00;0,00;1.000,00
+2026;02;11315302001;0001;1640;Contribuição de Melhoria para Pavimentação e Obras Complementares - Multas e Juros;0,00;0,00;1.000,00
+2026;02;12000000000;;;CONTRIBUIÇÕES;4.015.905,57;6.818.544,69;37.489.000,00
+2026;02;12400000000;;;CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA;4.015.905,57;6.818.544,69;37.489.000,00
+2026;02;12410000000;;;CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA;4.015.905,57;6.818.544,69;37.489.000,00
+2026;02;12415000000;;;CONTRIBUIÇÃO PARA O CUSTEIO DO SERVIÇO DE ILUMINAÇÃO PÚBLICA;4.015.905,57;6.818.544,69;37.489.000,00
+2026;02;12415001001;0003;2997;Contribuição para o Custeio do Serviço de Iluminação Pública - Territorial;1.253.262,90;1.468.137,16;4.313.000,00
+2026;02;12415001002;0003;2964;Contribuição para o Custeio do Serviço de Iluminação Pública - Predial;2.762.642,67;5.350.407,53;33.176.000,00
+2026;02;13000000000;;;RECEITA PATRIMONIAL;3.780.502,70;6.421.667,29;32.327.000,00
+2026;02;13100000000;;;EXPLORAÇÃO DO PATRIMÔNIO IMOBILIÁRIO DO ESTADO;241.093,43;524.640,59;3.959.000,00
+2026;02;13110000000;;;EXPLORAÇÃO DO PATRIMÔNIO IMOBILIÁRIO DO ESTADO;241.093,43;524.640,59;3.959.000,00
+2026;02;13110100000;;;ALUGUÉIS, ARRENDAMENTOS, FOROS, LAUDÊMIOS, TARIFAS DE OCUPAÇÃO;198.914,52;426.978,50;3.502.000,00
+2026;02;13110110000;;;ALUGUÉIS E ARRENDAMENTOS;25.043,52;61.112,17;356.000,00
+2026;02;13110111001;0001;1040;Aluguéis de Imóveis Próprios Públicos;25.043,52;61.112,17;356.000,00
+2026;02;13110120000;;;FOROS, LAUDÊMIOS E TARIFAS DE OCUPAÇÃO;173.871,00;365.866,33;3.146.000,00
+2026;02;13110121001;0001;1023;Foros, Laudêmios e Tarifas de Ocupação - Principal;173.871,00;365.866,33;3.146.000,00
+2026;02;13110200000;;;CONCESSÃO, PERMISSÃO, AUTORIZAÇÃO OU CESSÃO DO DIREITO DE USO DE BENS IMÓVEIS PÚBLICOS;42.178,91;97.662,09;457.000,00
+2026;02;13110211001;0001;1057;Receita com Utilização do Centro da Juventude Fuad Cury;0,00;0,00;29.000,00
+2026;02;13110211002;0001;2165;Concessão Onerosa - Arena Esportiva Farma Conde;39.743,41;91.757,41;424.000,00
+2026;02;13110211003;0001;2166;Receita com Utilização do Centro de Treinamento do Atleta Cidadão - CTAC;235,50;3.704,68;4.000,00
+2026;02;13110211004;0001;2167;Concessão de Uso - Quiosques Banhado;2.200,00;2.200,00;0,00
+2026;02;13200000000;;;VALORES MOBILIÁRIOS;3.539.409,27;5.897.026,70;28.368.000,00
+2026;02;13210000000;;;JUROS E CORREÇÕES MONETÁRIAS;3.539.409,27;5.897.026,70;28.349.000,00
+2026;02;13210100000;;;REMUNERAÇÃO DE DEPÓSITOS BANCÁRIOS;3.539.409,27;5.897.026,70;28.349.000,00
+2026;02;13210101001;0002;1912;Juros Banc. Op. Financeiras - Fundeb;311.726,14;527.221,09;1.639.000,00
+2026;02;13210101002;0001;1890;Juros Banc. Op. Financeiras - Fundo Municipal de Saúde - FMS;1.567,22;2.384,34;310.000,00
+2026;02;13210101006;0002;1780;Juros Banc. Op. Financeiras - SUS - Estadual;65.731,04;131.470,30;1.090.000,00
+2026;02;13210101007;0005;1074;Juros Banc. Op. Financeiras - Fundo Nacional de Saúde - FNS;45.636,84;104.014,72;0,00
+2026;02;13210101008;0001;1546;Juros Banc. Op. Financeiras - Secretaria Municipal de Educação - SME;17.039,33;28.548,53;762.000,00
+2026;02;13210101009;0005;1750;Juros Banc. Op. Financeiras - Salário Educação;52.437,90;80.647,56;340.000,00
+2026;02;13210101010;0005;1500;Juros Banc. Op. Financeiras - Programa Nacional de Alimentação Escolar - PNAE/FNDE;45.709,95;101.261,54;187.000,00
+2026;02;13210101012;0001;1123;Juros Banc. Op. Financeiras - Contribuição de Intervenção no Domínio Econômico - CIDE;1.101,29;2.012,09;16.000,00
+2026;02;13210101013;0005;1730;Juros Banc. Op. Financeiras - Fundo Nacional de Assistência Social - FNAS;2.852,76;6.134,31;0,00
+2026;02;13210101014;0003;1913;Juros Banc. Op. Financeiras - Contribuição para o Custeio do Serviço de Iluminação Pública;33.924,51;65.216,84;663.000,00
+2026;02;13210101016;0003;1210;Juros Banc. Op. Financeiras - Multas de Trânsito;122.140,83;220.371,88;489.000,00
+2026;02;13210101017;0003;1820;Juros Banc. Op. Financeiras - Zona Azul e Outros;16.824,99;33.259,40;155.000,00
+2026;02;13210101018;0003;1134;Juros Banc. Op. Financeiras - Fundo de Apoio ao Desporto Joseense - FADEJ;26.931,66;46.668,89;246.000,00
+2026;02;13210101040;0002;1563;Juros Banc. Op. Financeiras - Convênios Estaduais - Banco do Povo Paulista;0,00;26,62;0,00
+2026;02;13210101041;0002;1731;Juros Banc. Op. Financeiras - Fundo Estadual de Assistência Social - FEAS - Proteção Social Básica;263,75;568,04;8.000,00
+2026;02;13210101042;0001;1121;Juros Banc. Op. Financeiras - Royalties;24.258,74;57.053,77;85.000,00
+2026;02;13210101045;0006;1119;Juros Banc. Op. Financeiras - Conv. Agevap - Assoc. Pró-Gestão das Águas da Bacia Hidrográfica do Rio Paraíba do Sul - Programa de Pagto Por Serv. Ambientais - PSA;2.320,78;5.075,55;0,00
+2026;02;13210101048;0003;1127;Juros Banc. Op. Financeiras - Fundo Social de Solidariedade;181,70;382,18;1.000,00
+2026;02;13210101049;0002;1128;Juros Banc. Op. Financeiras - Fundação de Proteção e Defesa do Consumidor - Procon;33.759,27;74.294,40;50.000,00
+2026;02;13210101050;0003;1129;Juros Banc. Op. Financeiras - Fundo Municipal de Conservação Ambiental - Fumcam;26.526,89;49.720,42;553.000,00
+2026;02;13210101051;0003;1130;Juros Banc. Op. Financeiras - Fundo Municipal de Serviços Ecossistêmicos - FMSE;48.480,42;99.160,98;295.000,00
+2026;02;13210101053;0003;1143;Juros Banc. Op. Financeiras - Fundo Municipal de Habitação - FMH;1.911,39;4.338,99;86.000,00
+2026;02;13210101055;0005;1145;Juros Banc. Op. Financeiras - Brasil Carinhoso - Manutenção de Novas Turmas;125,47;270,83;0,00
+2026;02;13210101056;0005;1146;Juros Banc. Op. Financeiras - Programa Nacional de Apoio ao Transporte Escolar - PNATE;207,57;490,78;4.000,00
+2026;02;13210101057;0005;1147;Juros Banc. Op. Financeiras - Programa Dinheiro Direto na Escola - PDDE;237,58;511,79;0,00
+2026;02;13210101058;0002;1148;Juros Banc. Op. Financeiras - Fundo Social de Solidariedade do Estado de São Paulo - Fussesp - Aluguel Social;297,92;644,04;0,00
+2026;02;13210101059;0003;1149;Juros Banc. Op. Financeiras - Fundo Municipal de Turismo - Fumtur;136,24;304,94;1.000,00
+2026;02;13210101060;0005;1152;Juros Banc. Op. Financeiras - Fundo Nacional de Desenvolvimento da Educação - FNDE - Manutenção Educação Infantil - Novos Estabelecimentos;146,05;315,24;0,00
+2026;02;13210101061;0003;1999;Juros Banc. Op. Financeiras - Fundo Municipal de Transporte - Serviço de Transporte Privado;326,07;701,14;1.000,00
+2026;02;13210101067;0003;1158;Juros Banc. Op. Financeiras - Fundo Municipal do Idoso - Fumid;16.609,62;37.948,66;245.000,00
+2026;02;13210101070;0001;1066;Juros Banc. Op. Financeiras - Recursos Próprios;1.847.613,94;2.691.024,78;16.278.000,00
+2026;02;13210101071;0003;1112;Juros Banc. Op. Financeiras - Fundo Municipal de Conservação Ambiental - FUMCAM - Saneamento Básico - Contrato Sabesp;68.660,20;72.531,81;0,00
+2026;02;13210101072;0001;1117;Juros Banc. Op. Financeiras - Depósitos Judiciais;53.269,90;113.342,31;0,00
+2026;02;13210101073;0001;1118;Juros Banc. Op. Financeiras - ABIM;11.132,36;13.284,26;0,00
+2026;02;13210101074;0005;1125;Juros Banc. Op. Financeiras - SUS Custeio de Ação e Serviços Públicos de Saúde;91.845,48;160.965,63;1.850.000,00
+2026;02;13210101076;0003;1162;Juros Banc. Op. Financeiras - Fundo Municipal de Transporte - Serviço de Compartilhamento de Bicicletas e Patinetes;2.794,21;5.956,87;13.000,00
+2026;02;13210101083;0003;1169;Juros Banc. Op. Financeiras - Multas por Auto de Infração - Procon;863,81;1.974,60;361.000,00
+2026;02;13210101085;0006;1181;Juros Banc. Op. Financeiras - Convênio de Instituições Privadas de Ensino na Área de Saúde - Contrapartida;302,00;706,94;5.000,00
+2026;02;13210101086;0003;1182;Juros Banc. Op. Financeiras - Fundo Municipal de Desenvolvimento Urbano - FMDU;111.275,59;244.677,15;887.000,00
+2026;02;13210101087;0006;1183;Juros Banc. Op. Financeiras - Termo de Compromisso MRV - Estrada Municipal do Bom Retiro;392,86;844,76;0,00
+2026;02;13210101089;0006;1185;Juros Banc. Op. Financeiras - Doação Causa Animal - IPTU;1.283,99;2.785,17;15.000,00
+2026;02;13210101096;0006;1192;Juros Banc. Op. Financeiras - Atividade Complementar Guarda Civil Municipal;121,67;173,19;3.000,00
+2026;02;13210101098;0001;1194;Juros Banc. Op. Financeiras - Compensação Financeira Recursos Minerais - CFEM;8.728,07;18.353,70;22.000,00
+2026;02;13210101101;0005;1197;Juros Banc. Op. Financeiras - Cessão Onerosa do Bônus de Assinatura do Pré-Sal;866,37;1.870,09;0,00
+2026;02;13210101107;0006;1215;Juros Banc. Op. Financeiras - Termo de Compromisso Ambiental REVAP Banhado;159,42;344,11;0,00
+2026;02;13210101108;0006;1216;Juros Banc. Op. Financeiras - Termo de Compromisso Ambiental REVAP Pq Augusto Ruschi;191,42;413,19;0,00
+2026;02;13210101109;0006;1217;Juros Banc. Op. Financeiras - Termo de Compromisso Ambiental REVAP Plano de Trabalho Banhado;265,46;573,01;0,00
+2026;02;13210101113;0005;1223;Juros Banc. Op. Financeiras - Emenda parlamentar - Obras de Infraestrutura Viária Arena Municipal de Esportes;8,96;19,31;0,00
+2026;02;13210101114;0005;1224;Juros Banc. Op. Financeiras - Emenda Parlamentar - Proteção ao Cidadão;10,11;11,23;0,00
+2026;02;13210101115;0003;1225;Juros Banc. Op. Financeiras - Polo Gerador de Trafégo - Fundo Municipal de Transporte;20.925,90;46.065,04;171.000,00
+2026;02;13210101132;0002;1245;Juros Banc. Op. Financeiras - Convênio Estadual Implantação de Academia ao Ar Livre;532,50;1.151,15;0,00
+2026;02;13210101133;0006;1246;Juros Banc. Op. Financeiras - COAPES - Contrato Organizativo de Ação Pública Ensino - Saúde;29.017,99;64.647,55;160.000,00
+2026;02;13210101137;0002;1250;Juros Banc. Op. Financeiras - Convênio Secretaria de Desenvolvimento Regional/SDR - Infraestrutura Urbana;13,43;29,03;0,00
+2026;02;13210101140;0003;1254;Juros Banc. Op. Financeiras - Fundo Municipal dos Direitos da Criança e do Adolescente - FUMDICAD;84.884,75;183.917,19;666.000,00
+2026;02;13210101141;0002;1263;Juros Banc. Op. Financeiras - Convênio Estadual Revitalização e Modern. Pista de Skate do Vista Verde;40,75;88,09;0,00
+2026;02;13210101142;0005;1255;Juros Banc. Op. Financeiras - FNAS - Emenda Parlamentar;418,42;899,73;0,00
+2026;02;13210101147;0002;1264;Juros Banc. Op. Financeiras - FEAS - Abrigo Institucional e Casa de Passagem;0,00;4,85;0,00
+2026;02;13210101149;0006;1266;Juros Banc. Op. Financeiras - Outorga Aeroporto Professor Urbano Stumpf;1.251,52;2.701,46;0,00
+2026;02;13210101150;0005;1267;Juros Banc. Op. Financeiras - Ministério do Desenvolvimento Social - IGD - Programa Bolsa Família;2.194,14;3.549,26;22.000,00
+2026;02;13210101151;0001;1268;Juros Banc. Op. Financeiras - Concessão Onerosa - Arena Esportiva Farma Conde;5.129,39;10.612,57;57.000,00
+2026;02;13210101153;0002;1270;Juros Banc. Op. Financeiras - Emenda Parlamentar Individual Estadual - SASC;132,22;285,83;0,00
+2026;02;13210101156;0002;1273;Juros Banc. Op. Financeiras - Fundo Estadual de Assistência Social - FEAS - Benefícios Eventuais;95,42;383,80;2.000,00
+2026;02;13210101157;0002;1274;Juros Banc. Op. Financeiras - Convênio Secretaria de Educação do Estado - Programa de Transporte de Alunos da Rede Estadual de Ensino;8.191,79;11.923,59;182.000,00
+2026;02;13210101160;0002;1012;Juros Banc. Op. Financeiras - Convênio SDE-SP – Formação de Professores e Gestores do CITE e CEDEMP;704,81;1.523,67;0,00
+2026;02;13210101161;0002;1013;Juros Banc. Op. Financeiras - Convênio Estadual - Cidadania no Campo - Município Agro;4,52;9,72;0,00
+2026;02;13210101162;0005;1256;Juros Banc. Op. Financeiras - Emenda Parlamentar - Investimentos Diversos;242,14;1.948,45;0,00
+2026;02;13210101164;0002;1283;Juros Banc. Op. Financeiras - Convênio Secretaria de Educação Estado de São Paulo - Repasse Fundeb;20,35;43,93;0,00
+2026;02;13210101165;0002;1284;Juros Banc. Op. Financeiras - Convênio Secretaria de Educação Estado de São Paulo - Repasse Salário Educação;285,12;616,39;0,00
+2026;02;13210101169;0001;1286;Juros Banc. Op. Financeiras - Compensação Ambiental - Sistema Viário Via Cambuí ;1.649,87;3.255,15;0,00
+2026;02;13210101170;0005;1000;Juros Banc. Op. Financeiras - Procad SUAS;59,37;128,29;0,00
+2026;02;13210101171;0005;1001;Juros Banc. Op. Financeiras - Convênio Ministério do Esporte - Modernização do Campo do Esporte Clube Interlagos - Emenda Parlamentar Individual;0,00;5.621,66;0,00
+2026;02;13210101173;0006;1017;Juros Banc. Op. Financeiras - Termo de Compromisso de Compensação Ambiental - Via Cambuí - APA Federal Mananciais Rio Paraíba do Sul;3.045,42;6.573,67;0,00
+2026;02;13210101175;0005;1004;Juros Banc. Op. Financeiras - FNAS - Emenda Parlamentar Individual - Sociedade Holística Humanitária;800,40;1.730,32;0,00
+2026;02;13210101178;0005;1007;Juros Banc. Op. Financeiras - Piso Salarial Enfermagem;11.901,53;25.518,56;90.000,00
+2026;02;13210101179;0005;1008;Juros Banc. Op. Financeiras - Convênio Ministério do Esporte - Modernização e Revitalização de Pistas de Skate no Município de São José dos Campos;0,00;5.114,77;0,00
+2026;02;13210101181;0005;1019;Juros Banc. Op. Financeiras - FNDE - Programa Escola em Tempo Integral;7,40;15,98;0,00
+2026;02;13210101183;0002;1021;Juros Banc. Op. Financeiras - Emenda Parlamentar Individual Estadual - Aquisição de Equipamentos GCM - Stand de Tiro;0,01;0,01;0,00
+2026;02;13210101185;0005;1022;Juros Banc. Op. Financeiras - Convênio com o Ministério do Meio Ambiente e Mudança do Clima - Projeto Fazenda Urbana;142,97;307,97;0,00
+2026;02;13210101186;0002;1024;Juros Banc. Op. Financeiras - Convênio Fehidro - Restauração Ecológica no Manancial Jaguari em São José dos Campos;957,93;2.070,85;0,00
+2026;02;13210101187;0002;1025;Juros Banc. Op. Financeiras - Convênio Fehidro - Restauração Florestal no Manancial Jaguari em São José dos Campos;1.727,51;4.342,44;0,00
+2026;02;13210101188;0002;1026;Juros Banc. Op. Financeiras - Emenda Parlamentar Estadual - Convênio SSP-SP - Secretaria de Proteção ao Cidadão;6,68;7,42;0,00
+2026;02;13210101191;0002;1032;Juros Banc. Op. Financeiras - Fundo Estadual de Assistência Social - FEAS - Proteção Social Especial Média Complexidade;388,78;837,46;9.000,00
+2026;02;13210101199;0002;1257;JUROS BANC. OP. FINANCEIRAS - Convênio FEHIDRO - Manancial Jaguari - Fase II;3.329,88;7.094,00;0,00
+2026;02;13210101200;0002;1918;Juros Banc. Op. Financeiras - Convênio Departamento de Estradas de Rodagem - DER - Via Jaguari;499,34;1.077,84;0,00
+2026;02;13210101202;0005;1921;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - Aquisição de Estande de Tiro Virtual;289,26;632,61;0,00
+2026;02;13210101204;0005;1924;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - Investimentos SEPAC;242,14;521,46;0,00
+2026;02;13210101205;0001;1925;Juros Banc. Op. Financeiras - Receita com Utilização do Centro de Treinamento do Atleta Cidadão - CTAC;117,18;221,82;0,00
+2026;02;13210101207;0002;1927;Juros Banc. Op. Financeiras - Convênio Estadual Cozinhalimento - Instalação de Cozinha Piloto Experimental;176,00;398,38;0,00
+2026;02;13210101208;0005;1928;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - FNAS - AAFLAP;581,23;1.252,06;0,00
+2026;02;13210101209;0005;1929;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - FNAS - Associação Virgem de Guadalupe - Corrente;76,35;164,47;0,00
+2026;02;13210101210;0002;1930;Juros Banc. Op. Financeiras - Fundo Estadual de Assistência Social - FEAS - Custeio - Associação de Pais e Amigos dos Excepcionais de São José dos Campos - APAE-SJC;0,00;486,51;0,00
+2026;02;13210101211;0002;1931;Juros Banc. Op. Financeiras - Fundo Estadual de Assistência Social - FEAS - Vigilância Socioassistencial ;391,02;843,53;0,00
+2026;02;13210101212;0002;1932;Juros Banc. Op. Financeiras - Fundo Estadual de Assistência Social - FEAS - CRAS Santa Rita;0,00;393,99;0,00
+2026;02;13210101213;0002;1933;Juros Banc. Op. Financeiras - Fundo Estadual de Assistência Social - FEAS - Custeio OSC;0,00;54,38;0,00
+2026;02;13210101214;0003;1934;Juros Banc. Op. Financeiras - Multas por Auto de Infração - Combate à Dengue;4.617,55;9.748,28;20.000,00
+2026;02;13210101215;0005;1935;Juros Banc. Op. Financeiras - Convênio Ministério do Esporte - Construção de Espaço Esportivo Comunitário Jd Mariana - Novo PAC;10.918,35;25.296,75;0,00
+2026;02;13210101216;0005;1936;Juros Banc. Op. Financeiras - FNDE - Construção de Creche e Escola de Educação Infantil - EMEI Jd Santa Júlia - Novo PAC;7.824,10;16.842,73;0,00
+2026;02;13210101217;0005;1937;Juros Banc. Op. Financeiras - Transferência de Recursos do SUS - Atenção Especializada - Via Emenda Parlamentar Individual;653,77;1.408,29;0,00
+2026;02;13210101219;0003;1939;Juros Banc. Op. Financeiras - Serviços de Suporte e Intervenção de Trânsito SEMOB - FMT;1.488,48;3.170,50;0,00
+2026;02;13210101220;0005;5001;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 40360008/2024 - Portaria 5.926/2024 - Área: Saúde - CVV	;161,42;347,72;0,00
+2026;02;13210101222;0005;5003;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 40360008/2024 - Portaria 6.122/2024 - Área: Saúde - Pio XII;178,66;384,87;0,00
+2026;02;13210101223;0006;1941;Juros Banc. Op. Financeiras - Repasse Processos Judiciais - Saúde;8,34;10,23;0,00
+2026;02;13210101224;0005;1949;Juros Banc. Op. Financeiras - SUS - Fundo Nacional de Saúde - Construção de Maternidade - Novo PAC;1.667,86;3.564,15;0,00
+2026;02;13210101225;0005;5004;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 39280003/2024 - Transferência Especial - Área: Esporte;2.957,96;6.370,19;0,00
+2026;02;13210101226;0002;5005;Juros Banc. Op. Financeiras - Emenda Parlamentar Estadual Individual - 057.71657/2025 - Área: Segurança Pública;798,10;886,65;0,00
+2026;02;13210101228;0005;5006;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 90320007/2025 - Portaria 7.413/2025 - Área: Saúde - Reforma UBS;4.130,28;8.897,23;0,00
+2026;02;13210101229;0006;1945;Juros Banc. Op. Financeiras - Operação Urbana Consorciada do Bairro Urbanova;139.785,02;218.785,11;0,00
+2026;02;13210101231;0003;1951;Juros Banc. Op. Financeiras - Fundo Municipal de Saúde - Taxas e Multas Saúde;17.685,02;38.561,12;250.000,00
+2026;02;13210101232;0005;5008;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 25200009/2025 - Portaria 7.518/2025 - Área: Saúde - Pio XII;54,02;116,36;0,00
+2026;02;13210101233;0005;5009;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 36110001/2025 - Portaria 7.518/2025 - Área: Saúde - Pio XII;81,02;174,54;0,00
+2026;02;13210101234;0005;5010;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 25170002/2025 - Portaria 7.518/2025 - Área: Saúde - Pio XII;51,20;110,30;0,00
+2026;02;13210101239;0005;5013;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 31600015/2025 - Portaria 7.472/2025 - Área: Saúde - Pio XII;57,85;124,62;0,00
+2026;02;13210101240;0005;5014;Juros Banc. Op. Financeiras - 	Emenda Parlamentar Federal Individual - 15680011/2025 - Portaria 7.642/2025 - Área: Saúde - Pio XII;23,14;49,85;0,00
+2026;02;13210101241;0005;5015;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 43490002/2025 - Portaria 7.505/2025 - Área: Saúde - CVV;43,31;93,31;0,00
+2026;02;13210101242;0005;5016;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 41550002/2025 - Portaria 7.474/2025 - Área: Saúde - Pio XII;253,48;3.511,05;0,00
+2026;02;13210101243;0005;5017;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 38990017/2025 - Portaria 7.500/2025 - Área: Saúde - Pio XII;362,12;5.015,79;0,00
+2026;02;13210101244;0005;5018;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 37170021/2025 - Área: Assistência Social - Alpha Lumen;804,02;1.731,96;0,00
+2026;02;13210101245;0005;5019;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 37300005/2025 - Portaria 7.500/2025 - Área: Saúde - Pio XII;65,19;987,57;0,00
+2026;02;13210101246;0005;5020;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 15810017/2025 - Portaria 7.518/2025 - Área: Saúde - Pio XII;130,38;1.975,16;0,00
+2026;02;13210101247;0005;5021;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 37170012/2025 - Portaria 7.474/2025 - Área: Saúde - Pio XII;130,38;1.975,16;0,00
+2026;02;13210101248;0005;5022;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 37300004/2025 - Portaria 7.413/2025 - Área: Saúde – FMS;0,00;0,21;0,00
+2026;02;13210101249;0002;1958;Juros Banc. Op. Financeiras - Emenda Parlamentar Individual - Implantação de Sala Multissensorial SEC - Alteração de Objeto;1.990,73;4.303,56;0,00
+2026;02;13210101250;0005;5023;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 37300002/2025 - Área: Assistência Social - Unidade Vicentina;791,34;1.704,67;0,00
+2026;02;13210101251;0005;5024;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 37460001/2025 - Portaria 8.780/2025 - Área: Saúde - Pio XII;786,60;1.694,46;0,00
+2026;02;13210101252;0005;5025;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal Individual - 15680013/2025 - Transferência Especial - Área: Mobilidade Urbana;7.787,40;16.775,21;0,00
+2026;02;13210101253;0002;5026;Juros Banc. Op. Financeiras - Emenda Parlamentar Estadual Individual - 322.63288/2024 - Área: Esportes - Circuito Joseense de Taekwondo;7.910,85;17.101,74;0,00
+2026;02;13210101254;0005;5027;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal de Comissão - 50410002/2025 - Portaria 8.886/2025 - Área: Saúde - FMS;2.364,87;5.094,29;0,00
+2026;02;13210101255;0005;5028;Juros Banc. Op. Financeiras - Emenda Parlamentar Federal de Comissão - 50410002/2025 - Portaria 8.886/2025 - Área: Saúde - Pio XII;1.182,44;2.547,15;0,00
+2026;02;13210101256;0005;1956;Juros Banc. Op. Financeiras - Transferência de Recursos do Fundo Nacional de Assistência Social - FNAS - Programa de Erradicação do Trabalho Infantil;260,37;560,88;0,00
+2026;02;13210101257;0005;1957;Juros Banc. Op. Financeiras - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022 - Ciclo 2;35.045,09;74.020,17;0,00
+2026;02;13210101258;0005;1954;Juros Banc. Op. Financeiras - Transferências de Recursos do Fundo Nacional de Assistência Social – FNAS - Piso Básico Fixo;1.511,91;3.201,42;20.000,00
+2026;02;13210101259;0005;1955;Juros Banc. Op. Financeiras - Transferência de Recursos do Fundo Nacional de Assistência Social - FNAS - Piso de Alta Complexidade;3.884,67;8.657,77;40.000,00
+2026;02;13210101260;0001;1959;Juros Banc. Op. Financeiras - Concessão de Uso - Quiosques Banhado	;9,55;9,55;0,00
+2026;02;13210101261;0006;1961;Juros Banc. Op. Financeiras - Convênio Prefeitura Monteiro Lobato - Pavimentação de Estradas Municipais;624,79;624,79;0,00
+2026;02;13210101262;0002;5029;Juros Banc. Op. Financeiras - Emenda Parlamentar Estadual Individual - 429.20005/2025 - Área: Segurança Pública - Aquisição Viatura GCM;652,47;652,47;0,00
+2026;02;13220000000;;;DIVIDENDOS;0,00;0,00;19.000,00
+2026;02;13220100000;;;DIVIDENDOS;0,00;0,00;19.000,00
+2026;02;13220101001;0001;1058;Dividendos - Principal;0,00;0,00;19.000,00
+2026;02;17000000000;;;TRANSFERÊNCIAS CORRENTES;199.774.697,09;513.477.258,97;2.960.867.000,00
+2026;02;17100000000;;;TRANSFERÊNCIAS DA UNIÃO E DE SUAS ENTIDADES;39.197.924,76;75.715.361,31;461.560.000,00
+2026;02;17110000000;;;TRANSFERÊNCIAS DECORRENTES DE PARTICIPAÇÃO NA RECEITA DA UNIÃO;16.462.937,20;29.562.228,62;168.114.000,00
+2026;02;17115100000;;;COTA-PARTE DO FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS - FPM;16.456.008,98;29.544.384,46;167.629.000,00
+2026;02;17115110000;;;COTA-PARTE DO FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS - COTA MENSAL;16.456.008,98;29.544.384,46;148.909.000,00
+2026;02;17115111001;0001;1163;Cota-Parte do Fundo de Participação dos Municípios - Cota Mensal - Principal;16.456.008,98;29.544.384,46;148.909.000,00
+2026;02;17115120000;;;COTA-PARTE DO FUNDO DE PARTICIPAÇÃO DO MUNICÍPIOS – COTAS EXTRAORDINÁRIAS;0,00;0,00;18.720.000,00
+2026;02;17115121001;0001;2962;Cota-Parte do Fundo de Participação do Municípios - 1% Cota entregue no mês de dezembro - EC 55/2007;0,00;0,00;6.505.000,00
+2026;02;17115121002;0001;2961;Cota-Parte do Fundo de Participação dos Municípios - 1% Cota entregue no mês de julho - EC 84/2014;0,00;0,00;6.362.000,00
+2026;02;17115121003;0001;2013;Cota-Parte do Fundo de Participação do Municípios – 1% Cota entregue no mês de setembro - EC 112/2021;0,00;0,00;5.853.000,00
+2026;02;17115200000;;;COTA-PARTE DO IMPOSTO SOBRE A PROPRIEDADE TERRITORIAL RURAL;6.928,22;17.844,16;485.000,00
+2026;02;17115201001;0001;1198;Cota-Parte do Imposto Sobre a Propriedade Territorial Rural - ITR;6.928,22;17.844,16;485.000,00
+2026;02;17120000000;;;TRANSFERÊNCIAS DAS COMPENSAÇÕES FINANCEIRAS PELA EXPLORAÇÃO DE RECURSOS NATURAIS;791.900,60;1.698.897,94;18.165.000,00
+2026;02;17125000000;;;COTA-PARTE DA COMPENSAÇÃO FINANCEIRA PELA EXPLORAÇÃO DE RECURSOS HÍDRICOS;0,00;19.448,17;315.000,00
+2026;02;17125001001;0001;1171;Cota-parte da Compensação Financeira de Recursos Hídricos - CFH;0,00;19.448,17;315.000,00
+2026;02;17125100000;;;COTA-PARTE DA COMPENSAÇÃO FINANCEIRA PELA EXPLORAÇÃO DE RECURSOS MINERAIS - CFEM;40.488,75;99.071,32;684.000,00
+2026;02;17125101001;0001;2275;Cota-parte da Compensação Financeira de Recursos Minerais - CFEM;40.488,75;99.071,32;684.000,00
+2026;02;17125200000;;;COTA-PARTE DA COMPENSAÇÃO FINANCEIRA PELA PRODUÇÃO DE PETRÓLEO ;751.411,85;1.580.378,45;17.166.000,00
+2026;02;17125210000;;;COTA-PARTE DA COMPENSAÇÃO FINANCEIRA PELA PRODUÇÃO DE PETRÓLEO – LEI Nº 7.990/89;531.087,33;1.163.047,07;13.602.000,00
+2026;02;17125211001;0001;1201;Cota-parte Royalties - Compensação Financeira pela Produção de Petróleo - Lei nº 7.990/89;531.087,33;1.163.047,07;13.602.000,00
+2026;02;17125220000;;;COTA-PARTE PELO EXCEDENTE DA PRODUÇÃO DO PETRÓLEO – LEI Nº 9.478/97, ARTIGO 49, I E II;7.883,74;15.531,34;450.000,00
+2026;02;17125221001;0001;1202;Cota-Parte Royalties pelo Excedente da Produção do Petróleo - Lei nº 9.478/97, Artigo 49, I e II - Principal;7.883,74;15.531,34;450.000,00
+2026;02;17125240000;;;COTA-PARTE DO FUNDO ESPECIAL DO PETRÓLEO – FEP;212.440,78;401.800,04;3.114.000,00
+2026;02;17125241001;0001;1203;Cota-Parte do Fundo Especial do Petróleo – FEP - Principal;212.440,78;401.800,04;3.114.000,00
+2026;02;17130000000;;;TRANSFERÊNCIAS DE RECURSOS DO SISTEMA ÚNICO DE SAÚDE – SUS ;16.183.314,63;31.982.577,80;211.046.000,00
+2026;02;17135000000;;;TRANSFERÊNCIAS DE RECURSOS DO SISTEMA ÚNICO DE SAÚDE – SUS – REPASSES FUNDO A FUNDO - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE;16.183.314,63;31.982.577,80;211.046.000,00
+2026;02;17135010000;;;TRANSFERÊNCIAS DE RECURSOS DO BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE – ATENÇÃO PRIMÁRIA;3.549.988,71;6.388.855,72;41.850.000,00
+2026;02;17135011001;0005;1420;SUS - Piso Atenção Básica Ampliada - PABA;2.820.538,71;4.952.649,72;32.150.000,00
+2026;02;17135011004;0005;2003;SUS - Atenção Básica - Agente Comunitário de Saúde;729.450,00;1.436.206,00;9.700.000,00
+2026;02;17135020000;;;TRANSFERÊNCIAS DE RECURSOS DO BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE – ATENÇÃO ESPECIALIZADA;10.956.344,00;22.598.991,89;146.239.000,00
+2026;02;17135021001;0005;1406;SUS - Gestão Plena - Sistema de Informações Hospitalares - SIH;10.956.344,00;22.598.991,89;146.239.000,00
+2026;02;17135030000;;;TRANSFERÊNCIAS DE RECURSOS DO BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE – VIGILÂNCIA EM SAÚDE;788.856,19;1.563.722,43;10.806.000,00
+2026;02;17135031001;0005;1350;SUS - Vigilância em Saúde - Teto Financeiro - TFVS;125.296,10;306.876,34;2.302.000,00
+2026;02;17135031002;0005;1341;SUS - Vigilância em Saúde - AIDS;70.274,09;70.274,09;844.000,00
+2026;02;17135031003;0005;2002;SUS - Vigilância em Saúde - Agentes de Combate às Endemias;593.286,00;1.186.572,00;7.660.000,00
+2026;02;17135040000;;;TRANSFERÊNCIAS DE RECURSOS DO BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE – ASSISTÊNCIA FARMACÊUTICA;495.250,00;1.038.132,03;5.716.000,00
+2026;02;17135041001;0005;1376;SUS - Assistência Farmacêutica - Aquisição de Medicamentos;495.250,00;1.038.132,03;5.716.000,00
+2026;02;17135050000;;;TRANSFERÊNCIAS DE RECURSOS DO BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE – GESTÃO DO SUS;392.875,73;392.875,73;6.435.000,00
+2026;02;17135051002;0005;2010;Assistência Financeira Complementar da União destinada ao cumprimento dos pisos salariais da enfermagem;392.875,73;392.875,73;6.435.000,00
+2026;02;17140000000;;;TRANSFERÊNCIAS DE RECURSOS DO FUNDO NACIONAL DO DESENVOLVIMENTO DA EDUCAÇÃO – FNDE¿ ;5.255.831,01;10.893.603,35;55.067.000,00
+2026;02;17145000000;;;TRANSFERÊNCIAS DO SALÁRIO-EDUCAÇÃO;3.313.870,66;8.951.643,00;40.940.000,00
+2026;02;17145001001;0005;1260;Transferência do Salário Educação - Principal;3.313.870,66;8.951.643,00;40.940.000,00
+2026;02;17145200000;;;TRANSFERÊNCIAS REFERENTES AO PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR – PNAE;1.941.960,35;1.941.960,35;13.530.000,00
+2026;02;17145201001;0005;2731;Programa Nacional de Alimentação Escolar - PNAE - Pré-Escola;365.879,00;365.879,00;3.043.000,00
+2026;02;17145201002;0005;2732;Programa Nacional de Alimentação Escolar - PNAE - Atendimento Educacional Especializado - AEE;70.843,50;70.843,50;513.000,00
+2026;02;17145201003;0005;2733;Programa Nacional de Alimentação Escolar - PNAE - Creche;621.327,50;621.327,50;5.126.000,00
+2026;02;17145201004;0005;2734;Programa Nacional de Alimentação Escolar - PNAE - Ensino Fundamental;856.108,50;856.108,50;4.680.000,00
+2026;02;17145201005;0005;2735;Programa Nacional de Alimentação Escolar - PNAE - Educação de Jovens e Adultos - EJA;9.811,10;9.811,10;88.000,00
+2026;02;17145201006;0005;2736;Programa Nacional de Alimentação Escolar - PNAE - Ensino Médio;11.239,75;11.239,75;80.000,00
+2026;02;17145201007;0005;2737;Programa Nacional de Alimentação Escolar - PNAE - Povos e Comunidades Tradicionais;6.751,00;6.751,00;0,00
+2026;02;17145300000;;;TRANSFERÊNCIAS REFERENTES AO PROGRAMA NACIONAL DE APOIO AO TRANSPORTE DO ESCOLAR – PNATE;0,00;0,00;597.000,00
+2026;02;17145301001;0005;2740;Programa Nacional de Apoio ao Transporte Escolar - PNATE;0,00;0,00;597.000,00
+2026;02;17150000000;;;TRANSFERÊNCIAS DE RECURSOS DE COMPLEMENTAÇÃO DA UNIÃO AO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO – FUNDEB ;0,00;583.116,64;0,00
+2026;02;17155000000;;;TRANSFERÊNCIAS DE RECURSOS DA COMPLEMENTAÇÃO DA UNIÃO AO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO – FUNDEB;0,00;583.116,64;0,00
+2026;02;17155030000;;;TRANSFERÊNCIAS DE RECURSOS DE COMPLEMENTAÇÃO DA UNIÃO AO FUNDEB – VAAR;0,00;583.116,64;0,00
+2026;02;17155301000;0005;2027;Transferências de Recursos do FUNDEB destinados à criação de matrículas ETI;0,00;583.116,64;0,00
+2026;02;17160000000;;;TRANSFERÊNCIAS DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL – FNAS ;201.924,26;390.902,84;4.632.000,00
+2026;02;17165000000;;;TRANSFERÊNCIAS DE RECURSOS DO FUNDO NACIONAL DE ASSISTÊNCIA SOCIAL – FNAS;201.924,26;390.902,84;4.632.000,00
+2026;02;17165001006;0005;2181;Ministério do Desenvolvimento Social - IGD - Programa Bolsa Família;0,00;188.978,58;1.884.000,00
+2026;02;17165001009;0005;2184;Transferência de Recursos do Fundo Nacional de Assistência Social - FNAS - Piso de Alta Complexidade;131.642,60;131.642,60;1.824.000,00
+2026;02;17165001010;0005;2183;Transferências de Recursos do Fundo Nacional de Assistência Social – FNAS - Piso Básico Fixo;70.281,66;70.281,66;924.000,00
+2026;02;17170000000;;;TRANSFERÊNCIAS DE CONVÊNIOS DA UNIÃO E DE SUAS ENTIDADES;0,00;0,00;537.000,00
+2026;02;17179900000;;;OUTRAS TRANSFERÊNCIAS DE RECURSOS DA UNIÃO E DE SUAS ENTIDADES;0,00;0,00;537.000,00
+2026;02;17179901009;0005;2057;Programa Técnico Social - Ministério das Cidades;0,00;0,00;537.000,00
+2026;02;17190000000;;;OUTRAS TRANSFERÊNCIAS DE RECURSOS DA UNIÃO E DE SUAS ENTIDADES;302.017,06;604.034,12;3.999.000,00
+2026;02;17195800000;;;TRANSFERÊNCIA OBRIGATÓRIA DECORRENTE DA LEI COMPLEMENTAR Nº 176/2020;302.017,06;604.034,12;3.999.000,00
+2026;02;17195801001;0005;1948;Compensação da União - LC 176/2020;302.017,06;604.034,12;3.999.000,00
+2026;02;17200000000;;;TRANSFERÊNCIAS DOS ESTADOS E DO DISTRITO FEDERAL E DE SUAS ENTIDADES;119.844.276,61;333.635.050,50;1.836.890.000,00
+2026;02;17210000000;;;PARTICIPAÇÃO NA RECEITA DOS ESTADOS E DISTRITO FEDERAL;113.567.934,86;323.376.891,81;1.745.180.000,00
+2026;02;17215000000;;;COTA-PARTE DO ICMS;71.137.901,27;183.383.997,74;1.471.666.000,00
+2026;02;17215001001;0001;1236;Cota-Parte do ICMS;71.137.901,27;183.383.997,74;1.471.666.000,00
+2026;02;17215100000;;;COTA-PARTE DO IPVA;41.567.890,76;138.103.055,13;262.434.000,00
+2026;02;17215101001;0001;1287;Cota-Parte do IPVA;41.567.890,76;138.103.055,13;262.434.000,00
+2026;02;17215200000;;;COTA-PARTE DO IPI - MUNICÍPIOS;862.142,83;1.775.351,46;10.567.000,00
+2026;02;17215201001;0001;1252;Cota-Parte do IPI - Exportação - Lei 61/1989;862.142,83;1.775.351,46;10.567.000,00
+2026;02;17215300000;;;COTA-PARTE DA CONTRIBUIÇÃO DE INTERVENÇÃO NO DOMÍNIO ECONÔMICO;0,00;114.487,48;513.000,00
+2026;02;17215301001;0001;1840;Cota-Parte da Contribuição de Intervenção no Domínio Econômico;0,00;114.487,48;513.000,00
+2026;02;17240000000;;;TRANSFERÊNCIAS DE CONVÊNIOS DOS ESTADOS E DF E DE SUAS ENTIDADES;6.276.341,75;10.258.158,69;89.820.000,00
+2026;02;17245000000;;;TRANSFERÊNCIAS DE CONVÊNIOS DOS ESTADOS E DF PARA O SISTEMA ÚNICO DE SAÚDE – SUS;4.071.685,33;8.053.502,27;66.339.000,00
+2026;02;17245001001;0002;1414;SUS - Estadual - Atenção Básica;0,00;0,00;4.000.000,00
+2026;02;17245001004;0002;2035;SUS - Estadual - MAC - Média e Alta Complexidade;4.071.685,33;8.053.502,27;55.000.000,00
+2026;02;17245001005;0002;2036;SUS - Estadual - Vigilância em Saúde;0,00;0,00;1.475.000,00
+2026;02;17245001006;0002;1415;SUS - Estadual - Assistência Farmacêutica;0,00;0,00;5.864.000,00
+2026;02;17245100000;;;TRANSFERÊNCIAS DE CONVÊNIOS DOS ESTADOS DESTINADAS A PROGRAMAS DE EDUCAÇÃO;2.204.656,42;2.204.656,42;22.818.000,00
+2026;02;17245101002;0002;2907;Convênio Secretaria de Educação do Estado - Programa de Transporte de Alunos da Rede Estadual de Ensino;2.204.656,42;2.204.656,42;22.818.000,00
+2026;02;17249900000;;;OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS DOS ESTADOS E DF E DE SUAS ENTIDADES;0,00;0,00;663.000,00
+2026;02;17249901003;0002;2247;Convênio com a Fundação de Proteção e Defesa do Consumidor - PROCON;0,00;0,00;663.000,00
+2026;02;17290000000;;;OUTRAS TRANSFERÊNCIAS DOS ESTADOS E DISTRITO FEDERAL;0,00;0,00;1.890.000,00
+2026;02;17295100000;;;TRANSFERÊNCIAS DE ESTADOS DESTINADAS À ASSISTÊNCIA SOCIAL;0,00;0,00;1.890.000,00
+2026;02;17295101001;0002;2311;Fundo Estadual de Assistência Social - FEAS - Proteção Social Básica;0,00;0,00;768.000,00
+2026;02;17295101005;0002;2317;Fundo Estadual de Assistência Social - FEAS - Benefícios Eventuais;0,00;0,00;113.000,00
+2026;02;17295101007;0002;2037;Fundo Estadual de Assistência Social - FEAS - Proteção Social Especial Média Complexidade;0,00;0,00;1.009.000,00
+2026;02;17300000000;;;TRANSFERÊNCIAS DOS MUNICÍPIOS E DE SUAS ENTIDADES;291.078,00;291.078,00;0,00
+2026;02;17320000000;;;TRANSFERÊNCIAS DE CONVÊNIOS DOS MUNICÍPIOS E DE SUAS ENTIDADES;291.078,00;291.078,00;0,00
+2026;02;17329901001;0006;2138;Convênio Prefeitura Monteiro Lobato - Pavimentação de Estradas Municipais;291.078,00;291.078,00;0,00
+2026;02;17500000000;;;TRANSFERÊNCIAS DE OUTRAS INSTITUIÇÕES PÚBLICAS;40.441.417,72;103.835.769,16;662.417.000,00
+2026;02;17510000000;;;TRANSFERÊNCIAS DE RECURSOS DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO - FUNDEB;40.441.417,72;103.835.769,16;662.417.000,00
+2026;02;17515000000;;;TRANSFERÊNCIAS DE RECURSOS DO FUNDO DE MANUTENÇÃO E DESENVOLVIMENTO DA EDUCAÇÃO BÁSICA E DE VALORIZAÇÃO DOS PROFISSIONAIS DA EDUCAÇÃO – FUNDEB;40.441.417,72;103.835.769,16;662.417.000,00
+2026;02;17515001001;0002;1321;FUNDEB - FPM;6.516.221,07;11.698.932,55;59.713.000,00
+2026;02;17515001002;0002;1322;FUNDEB - ITR;7.227,21;50.172,78;1.120.000,00
+2026;02;17515001004;0002;1324;FUNDEB - ICMS;23.847.103,02;59.163.812,52;507.651.000,00
+2026;02;17515001005;0002;1325;FUNDEB - IPI;285.849,08;558.243,00;4.048.000,00
+2026;02;17515001006;0002;1326;FUNDEB - IPVA;8.317.540,74;29.801.898,82;68.878.000,00
+2026;02;17515001007;0002;1327;FUNDEB - ITCMD;903.694,20;1.578.810,91;16.325.000,00
+2026;02;17515001008;0002;1328;FUNDEB - FPE;563.782,40;983.898,58;4.682.000,00
+2026;02;19000000000;;;OUTRAS RECEITAS CORRENTES;16.058.227,22;39.413.565,21;117.982.000,00
+2026;02;19100000000;;;MULTAS ADMINISTRATIVAS, CONTRATUAIS E JUDICIAIS;7.002.638,50;13.515.177,61;46.399.000,00
+2026;02;19110000000;;;MULTAS ADMINISTRATIVAS, CONTRATUAIS E JUDICIAIS;7.002.638,50;13.515.177,61;46.399.000,00
+2026;02;19110100000;;;MULTAS PREVISTAS EM LEGISLAÇÃO ESPECÍFICA;220.857,83;505.271,59;3.691.000,00
+2026;02;19110101000;;;MULTAS PREVISTAS EM LEGISLAÇÃO ESPECÍFICA -  PRINCIPAL;220.403,86;501.918,48;3.557.000,00
+2026;02;19110101004;0001;2011;Multas por Auto de Infração - Recursos Próprios;22.626,76;94.295,71;397.000,00
+2026;02;19110101006;0003;2070;Multas por Auto de Infração - Fundo Municipal de Saúde - Vigilância Sanitária;18.811,07;59.294,53;300.000,00
+2026;02;19110101008;0003;2072;Multas por Auto de Infração - Combate à Dengue;13.669,21;37.283,88;200.000,00
+2026;02;19110101009;0003;1950;Multas por Auto de Infração - Procon;165.296,82;311.044,36;2.660.000,00
+2026;02;19110102000;;;MULTAS PREVISTAS EM LEGISLAÇÃO ESPECÍFICA -  MULTAS E JUROS;0,00;9,24;1.000,00
+2026;02;19110102001;0003;2075;Juros de Mora - Multas por Auto de Infração - Procon;0,00;9,24;1.000,00
+2026;02;19110103000;;;MULTAS PREVISTAS EM LEGISLAÇÃO ESPECÍFICA -  DÍVIDA ATIVA;200,60;1.774,79;67.000,00
+2026;02;19110103003;0001;2062;Dívida Ativa Não Tributária - Multas por Auto de Infração - Recursos Próprios;0,00;0,00;1.000,00
+2026;02;19110103004;0003;2074;Dívida Ativa - Multa por Auto de Infração - Procon;200,60;1.774,79;66.000,00
+2026;02;19110104000;;;MULTAS PREVISTAS EM LEGISLAÇÃO ESPECÍFICA - DÍVIDA ATIVA - MULTAS E JUROS;253,37;1.569,08;66.000,00
+2026;02;19110104001;0003;2073;Dívida Ativa - Juros de Mora, Multa e Atualização Monetária - Procon;253,37;1.569,08;66.000,00
+2026;02;19110900000;;;MULTAS E JUROS PREVISTOS EM CONTRATOS;5.278,50;22.997,84;462.000,00
+2026;02;19110901000;0001;2006;Multas e Juros Previstos em Contratos -  Principal;2.002,70;11.102,70;444.000,00
+2026;02;19110903000;0001;2008;Multas e Juros Previstos em Contratos -  Dívida Ativa;3.275,80;11.895,14;18.000,00
+2026;02;19111400000;;;MULTAS PREVISTAS NO CÓDIGO DE TRÂNSITO BRASILEIRO - CTB;6.776.502,17;12.986.908,18;42.246.000,00
+2026;02;19111401001;0003;2127;Multas Previstas na Legislação de Trânsito - Normal;6.776.304,89;12.986.710,90;40.208.000,00
+2026;02;19111401003;0003;2128;Multas Previstas na Legislação de Trânsito - Funset;0,00;0,00;2.035.000,00
+2026;02;19111404001;0003;2760;Div. Ativa Não Trib. - Multas Prev. Legislação de Trânsito - Normal;197,28;197,28;2.000,00
+2026;02;19111404002;0003;2770;Div. Ativa Não Trib. - Multas Prev. Legislação de Trânsito - Parcelamento;0,00;0,00;1.000,00
+2026;02;19200000000;;;INDENIZAÇÕES, RESTITUIÇÕES E RESSARCIMENTOS;260.407,58;2.355.744,13;332.000,00
+2026;02;19210000000;;;INDENIZAÇÕES;2.389,30;1.820.318,02;332.000,00
+2026;02;19219900000;;;OUTRAS INDENIZAÇÕES;2.389,30;1.820.318,02;332.000,00
+2026;02;19219901001;0001;2171;Indenizações;2.389,30;1.820.318,02;332.000,00
+2026;02;19220000000;;;RESTITUIÇÕES;258.018,28;535.426,11;0,00
+2026;02;19220600000;;;RESTITUIÇÃO DE DESPESAS DE EXERCÍCIOS ANTERIORES;258.018,28;535.426,11;0,00
+2026;02;19220630000;;;RESTITUIÇÃO DE DESPESAS PRIMÁRIAS DE EXERCÍCIOS ANTERIORES;258.018,28;535.426,11;0,00
+2026;02;19220631001;0001;2170;Restituição de Despesas de Exercícios Anteriores;258.018,28;535.426,11;0,00
+2026;02;19900000000;;;DEMAIS RECEITAS CORRENTES;8.795.181,14;23.542.643,47;71.251.000,00
+2026;02;19990000000;;;OUTRAS RECEITAS CORRENTES;8.795.181,14;23.542.643,47;71.251.000,00
+2026;02;19999900000;;;OUTRAS RECEITAS;8.795.181,14;23.542.643,47;71.251.000,00
+2026;02;19999920000;;;OUTRAS RECEITAS NÃO ARRECADADAS E NÃO PROJETADAS PELA RFB - PRIMÁRIAS  ;8.795.181,14;23.542.643,47;71.251.000,00
+2026;02;19999921001;0003;2194;Fundo Municipal de Assistência Social - FMAS;0,00;0,00;2.000,00
+2026;02;19999921002;0003;2135;Fundo de Apoio ao Desporto Joseense - FADEJ;3.027.802,50;3.994.950,02;16.556.000,00
+2026;02;19999921003;0003;1580;Fundo Municipal de Turismo - FUMTUR;0,00;0,00;1.000,00
+2026;02;19999921004;0001;2089;Diversas Rendas - Recursos Próprios;57.643,90;87.210,84;2.260.000,00
+2026;02;19999921005;0006;2097;Repasse Processos Judiciais - Saúde;0,00;1.000,00;0,00
+2026;02;19999921006;0003;2160;Zona Azul e outras;350.910,84;701.348,47;4.128.000,00
+2026;02;19999921007;0003;2970;Fundo Social de Solidariedade;3.208,81;3.360,21;1.000,00
+2026;02;19999921008;0003;1520;Fundo Municipal Antidrogas;0,00;0,00;1.000,00
+2026;02;19999921009;0003;2208;Fundo Municipal de Conservação Ambiental - FUMCAM - Saneamento Básico - Contrato Sabesp;0,00;7.126.973,28;0,00
+2026;02;19999921010;0003;2348;Fundo Municipal de Habitação - FMH;46.774,12;93.009,57;590.000,00
+2026;02;19999921011;0003;2350;Fundo Municipal de Preservação do Patr. Histórico, Artístico, Paisagístico e Cultural - FUMPHAC;0,00;0,00;1.000,00
+2026;02;19999921012;0003;2987;Fundo Municipal do Idoso;150,00;300,00;1.255.000,00
+2026;02;19999921013;0003;2988;Fundo Municipal de Serviços Ecossistêmicos;0,00;0,00;6.793.000,00
+2026;02;19999921014;0003;2989;Fundo Municipal de Conservação Ambiental - FUMCAM;462.029,38;1.437.616,87;2.696.000,00
+2026;02;19999921017;0001;2969;Depósitos Judiciais - Lei 151/2015;225.335,89;437.053,03;5.274.000,00
+2026;02;19999921018;0003;2967;Fundo Municipal de Transportes - Serviço de Transporte Privado;9.437,09;9.437,09;25.000,00
+2026;02;19999921019;0003;2891;Fundo Municipal de Transportes -  Serviço de Compartilhamento de Bicicletas e Patinetes;8.399,58;17.613,23;354.000,00
+2026;02;19999921020;0006;2605;Doação Causa Animal - IPTU;13.106,88;13.885,07;40.000,00
+2026;02;19999921021;0003;2892;Fundo Municipal de Desenvolvimento Urbano - FMDU;513.050,37;889.928,90;4.952.000,00
+2026;02;19999921023;0006;2720;Atividade Complementar Guarda Civil Municipal;43.507,00;81.480,00;288.000,00
+2026;02;19999921032;0003;2893;Fundo Municipal dos Direitos da Criança e do Adolescente - FUMDICAD;778.386,92;842.738,84;2.834.000,00
+2026;02;19999921036;0003;2163;Serviços de Suporte e Intervenção de Trânsito SEMOB - FMT;5.444,67;9.251,19;70.000,00
+2026;02;19999923001;0001;2461;Divida Ativa Não Tributária - Outras;610.173,66;1.306.657,70;4.333.000,00
+2026;02;19999924001;0001;1690;Multas e Juros de Mora da Dívida Ativa de Outros Tributos;2.639.819,53;6.488.829,16;18.797.000,00
+2026;02;20000000000;;;RECEITAS DE CAPITAL;309.467,66;722.364,10;156.718.000,00
+2026;02;21000000000;;;OPERAÇÕES DE CRÉDITO;0,00;0,00;90.900.000,00
+2026;02;21100000000;;;OPERAÇÕES DE CRÉDITO - MERCADO INTERNO;0,00;0,00;90.900.000,00
+2026;02;21190000000;;;OUTRAS OPERAÇÕES DE CRÉDITO - MERCADO INTERNO;0,00;0,00;90.900.000,00
+2026;02;21199900000;;;OUTRAS OPERAÇÕES DE CRÉDITO - MERCADO INTERNO;0,00;0,00;90.900.000,00
+2026;02;21199901001;0007;2232;Operação de Crédito - Programa Pró-Transporte, Eixo Cidades Sustentáveis e Resilientes;0,00;0,00;60.000.000,00
+2026;02;21199901002;0007;2233;Operação de Crédito - Programa Pró-Moradia;0,00;0,00;30.900.000,00
+2026;02;22000000000;;;ALIENAÇÃO DE BENS;0,00;0,00;466.000,00
+2026;02;22100000000;;;ALIENAÇÃO DE BENS MÓVEIS;0,00;0,00;466.000,00
+2026;02;22110000000;;;ALIENAÇÃO DE TÍTULOS MOBILIÁRIOS;0,00;0,00;466.000,00
+2026;02;22110100000;;;ALIENAÇÃO DE TÍTULOS, VALORES MOBILIÁRIOS E APLICAÇÕES CONGÊNERES TEMPORÁRIAS;0,00;0,00;466.000,00
+2026;02;22110101001;0001;2381;Alienação de Títulos Mobiliários;0,00;0,00;466.000,00
+2026;02;24000000000;;;TRANSFERÊNCIAS DE CAPITAL;309.467,66;722.364,10;65.352.000,00
+2026;02;24100000000;;;TRANSFERÊNCIAS DA UNIÃO E DE SUAS ENTIDADES;0,00;0,00;30.002.000,00
+2026;02;24110000000;;;TRANSFERÊNCIAS DE RECURSOS DO SISTEMA ÚNICO DE SAÚDE - SUS;0,00;0,00;30.002.000,00
+2026;02;24115100000;;;TRANSFERÊNCIAS DE RECURSOS DO SISTEMA ÚNICO DE SAÚDE – SUS - FUNDO A FUNDO - BLOCO DE ESTRUTURAÇÃO DA REDE DE SERVIÇOS PÚBLICOS DE SAÚDE;0,00;0,00;30.002.000,00
+2026;02;24115120000;;;TRANSFERÊNCIAS DE RECURSOS DO BLOCO DE ESTRUTURAÇÃO DA REDE DE SERVIÇOS PÚBLICOS DE SAÚDE - ATENÇÃO ESPECIALIZADA;0,00;0,00;30.002.000,00
+2026;02;24115121002;0005;2697;SUS - Fundo Nacional de Saúde - Construção de Maternidade - Novo PAC;0,00;0,00;30.002.000,00
+2026;02;24200000000;;;TRANSFERÊNCIAS DOS ESTADOS E DO DISTRITO FEDERAL E DE SUAS ENTIDADES;255.320,65;520.989,46;20.393.000,00
+2026;02;24220000000;;;TRANSFERÊNCIAS DE CONVÊNIOS DOS ESTADOS E DF E DE SUAS ENTIDADES ;255.320,65;520.989,46;20.393.000,00
+2026;02;24229900000;;;OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS DOS ESTADOS E DF E DE SUAS ENTIDADES;255.320,65;520.989,46;20.393.000,00
+2026;02;24229901019;0002;2034;Convênio CDHU - Construção de Unidades Habitacionais;0,00;0,00;14.012.000,00
+2026;02;24229901022;0002;4007;Emenda Parlamentar Estadual Individual - 325.66369/2025 - Área: Obras - Construção de Praça no Jd. das Indústrias;0,00;0,00;100.000,00
+2026;02;24229901023;0002;2981;Convênio Fehidro - GAP Residencial Flamboyant;2.064,84;267.733,65;671.000,00
+2026;02;24229901024;0002;2982;Convênio Fehidro - Contenção na Margem do Córrego Senhorinha;0,00;0,00;1.282.000,00
+2026;02;24229901026;0002;2634;Restauração da Igreja São Benedito - Secretaria de Governo e Relações Institucionais;0,00;0,00;4.328.000,00
+2026;02;24229901027;0002;4029;Emenda Parlamentar Estadual Individual - 429.20005/2025 - Área: Segurança Pública - Aquisição Viatura GCM;253.255,81;253.255,81;0,00
+2026;02;24400000000;;;TRANSFERÊNCIAS DE INSTITUIÇÕES PRIVADAS;54.147,01;201.374,64;14.957.000,00
+2026;02;24410000000;;;TRANSFERÊNCIAS DE INSTITUIÇÕES PRIVADAS;54.147,01;201.374,64;14.957.000,00
+2026;02;24419900000;;;OUTRAS TRANSFERÊNCIAS DE INSTITUIÇÕES PRIVADAS;54.147,01;201.374,64;14.957.000,00
+2026;02;24419901003;0006;2612;Convênio de Instituições Privadas de Ensino na Área de Saúde - Contrapartida - Investimentos;1.081,77;3.208,85;60.000,00
+2026;02;24419901006;0003;2622;Polo Gerador de Trafégo - Fundo Municipal de Transporte;53.065,24;198.165,79;8.356.000,00
+2026;02;24419901007;0006;2628;COAPES - Contrato Organizativo de Ação Pública Ensino - Saúde;0,00;0,00;6.541.000,00
+2026;02;900000000000;;;Dedução da Receita Corrente;-26.006.174,51;-70.564.926,86;-378.812.000,00
+2026;02;910000000000;;;Dedução;-26.006.174,51;-70.564.926,86;-378.812.000,00
+2026;02;917000000000;;;Dedução da Receita;-26.006.174,51;-70.564.926,86;-378.812.000,00
+2026;02;917100000000;;;Dedução de Receita para Formação do Fundeb - União;-3.292.587,34;-5.912.445,56;-29.879.000,00
+2026;02;917115111001;0001;2640;Dedução de Receita para Formação do Fundeb - FPM;-3.291.201,71;-5.908.876,76;-29.782.000,00
+2026;02;917115201001;0001;2710;Dedução de Receita para Formação Do Fundeb - ITR;-1.385,63;-3.568,80;-97.000,00
+2026;02;917200000000;;;Dedução para Formação do Fundeb - Estadual;-22.713.587,17;-64.652.481,30;-348.933.000,00
+2026;02;917210000000;;;® DEDUÇÃO DAS RECEITAS DE TRANSFERENCIA DO UNIÃO;-22.713.587,17;-64.652.481,30;-348.933.000,00
+2026;02;917215001001;0001;2650;Dedução de Receita para Formação do Fundeb - ICMS;-14.227.580,25;-36.676.799,52;-294.333.000,00
+2026;02;917215101001;0001;2711;Dedução de Receita para Formação do Fundeb - IPVA;-8.313.578,35;-27.620.611,48;-52.487.000,00
+2026;02;917215201001;0001;2399;Dedução de Receita para Formação do Fundeb - IPI;-172.428,57;-355.070,30;-2.113.000,00

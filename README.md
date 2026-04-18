@@ -14,3 +14,4 @@ https://github.com/Ericscnogueira23/ericscnogueirabancodedados/blob/main/Captura
 <img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/1e53a72f-acb9-4255-88fd-eb189ab1d6ea" />
 [multas_pagas.xlsxESCN.xlsx](https://github.com/user-attachments/files/26845243/multas_pagas.xlsxESCN.xlsx)
 <img width="1913" height="1027" alt="image" src="https://github.com/user-attachments/assets/91f8ec31-c540-4f94-a652-57b6beb829aa" />
+[Banco_de_Dados_1_fundamentos-Certificado_digital_3983622.pdf](https://github.com/user-attachments/files/26845813/Banco_de_Dados_1_fundamentos-Certificado_digital_3983622.pdf)

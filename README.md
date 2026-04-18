@@ -11,5 +11,6 @@ https://github.com/Ericscnogueira23/ericscnogueirabancodedados/blob/main/Captura
 <img width="1919" height="1026" alt="image" src="https://github.com/user-attachments/assets/a235f60e-0c88-42e2-b0d4-59a069d256b8" />
 <img width="1914" height="1030" alt="image" src="https://github.com/user-attachments/assets/b020f2d0-1b36-40de-bf07-fbc83a501a85" />
 ## Atividade da professora adriana, cinco perguntas
+<img width="1919" height="1033" alt="image" src="https://github.com/user-attachments/assets/1e53a72f-acb9-4255-88fd-eb189ab1d6ea" />
 [multas_pagas.xlsxESCN.xlsx](https://github.com/user-attachments/files/26845243/multas_pagas.xlsxESCN.xlsx)
 <img width="1913" height="1027" alt="image" src="https://github.com/user-attachments/assets/91f8ec31-c540-4f94-a652-57b6beb829aa" />

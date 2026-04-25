@@ -22,3 +22,4 @@ https://github.com/Ericscnogueira23/ericscnogueirabancodedados/blob/main/Captura
 [escn.zip](https://github.com/user-attachments/files/27070240/escn.zip)
 <img width="1911" height="1032" alt="Captura de tela 2026-04-24 205719" src="https://github.com/user-attachments/assets/0726f2bf-3919-407c-ad92-cdb52c5ee298" />
 ## Atividade da professora adriana, conjunto de dados abertos sp 3 vizualizações no powerbi
+<img width="1918" height="1037" alt="Captura de tela 2026-04-24 215955" src="https://github.com/user-attachments/assets/28bfb290-cedc-4d46-a182-cc44f04fb1e3" />

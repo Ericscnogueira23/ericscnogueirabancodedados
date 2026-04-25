@@ -16,8 +16,7 @@ https://github.com/Ericscnogueira23/ericscnogueirabancodedados/blob/main/Captura
 [multas_pagas.xlsxESCN.xlsx](https://github.com/user-attachments/files/26845243/multas_pagas.xlsxESCN.xlsx)
 <img width="1913" height="1027" alt="image" src="https://github.com/user-attachments/assets/91f8ec31-c540-4f94-a652-57b6beb829aa" />
 [Banco_de_Dados_1_fundamentos-Certificado_digital_3983622.pdf](https://github.com/user-attachments/files/26845813/Banco_de_Dados_1_fundamentos-Certificado_digital_3983622.pdf)
-<img width="1139" height="774" alt="image" src="https://github.com/user-attachments/assets/6e694541-a4f6-46fc-a6e2-06defdb766f7" />
-<img width="1911" height="1032" alt="Captura de tela 2026-04-24 205719" src="https://github.com/user-attachments/assets/d8f60c0e-3040-4053-a433-db81f7eda339" />
+
 ## Atividade da professora adriana, gráfico de despesas de SJC
 [escn.zip](https://github.com/user-attachments/files/27070240/escn.zip)
 <img width="1911" height="1032" alt="Captura de tela 2026-04-24 205719" src="https://github.com/user-attachments/assets/0726f2bf-3919-407c-ad92-cdb52c5ee298" />

@@ -27,3 +27,11 @@ https://github.com/Ericscnogueira23/ericscnogueirabancodedados/blob/main/Captura
 
 ## Atividade da professora adriana, conjunto de dados abertos sp 3 vizualizações no powerbi
 <img width="1918" height="1037" alt="Captura de tela 2026-04-24 215955" src="https://github.com/user-attachments/assets/28bfb290-cedc-4d46-a182-cc44f04fb1e3" />
+
+## Atividade da professora adriana, conjunto de dados abertos sp, vizualização trabalho, gráfico, mapa e perguntas
+A-) Em qual ano e mês houve o menor saldo de movimentação? E o maior?
+ O menor saldo foi em Janeiro (1) de 2026 com 15.630 movimentações, e o maior saldo foi em Agosto (4) de 2021 com 113.784 movimentações
+ O ano que teve maior índice de movimentação foi em 2021 e o menor índice de movimentação em 2020
+B-) Em qual ano a média de movimentações foi maior que zero?
+ Todos os anos estão com a media de movimentação maior que zero, menos 2020
+ <img width="1913" height="1025" alt="image" src="https://github.com/user-attachments/assets/6261ef0d-73b7-4034-acfd-734ae1c98432" />

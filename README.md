@@ -35,3 +35,7 @@ A-) Em qual ano e mês houve o menor saldo de movimentação? E o maior?
 B-) Em qual ano a média de movimentações foi maior que zero?
  Todos os anos estão com a media de movimentação maior que zero, menos 2020
  <img width="1913" height="1025" alt="image" src="https://github.com/user-attachments/assets/6261ef0d-73b7-4034-acfd-734ae1c98432" />
+
+## Atividade da professora adriana, dados de vendas de sorvetes
+[Ice Cream Sales - temperatures.csv](https://github.com/user-attachments/files/27782014/Ice.Cream.Sales.-.temperatures.csv)
+<img width="1914" height="1030" alt="image" src="https://github.com/user-attachments/assets/1e0309e8-7db0-418b-aba1-4a55449c238b" />

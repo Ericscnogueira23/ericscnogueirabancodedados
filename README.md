@@ -38,4 +38,5 @@ B-) Em qual ano a média de movimentações foi maior que zero?
 
 ## Atividade da professora adriana, dados de vendas de sorvetes
 [Ice Cream Sales - temperatures.csv](https://github.com/user-attachments/files/27782014/Ice.Cream.Sales.-.temperatures.csv)
-<img width="1914" height="1030" alt="image" src="https://github.com/user-attachments/assets/1e0309e8-7db0-418b-aba1-4a55449c238b" />
+<img width="1914" height="1033" alt="image" src="https://github.com/user-attachments/assets/fb29c791-2080-422f-ab00-44209a4fcbc6" />
+

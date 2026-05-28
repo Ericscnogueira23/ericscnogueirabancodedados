@@ -46,3 +46,9 @@ B-) Em qual ano a média de movimentações foi maior que zero?
 
 ## Atividade da professora adriana, dashboard sorvete e cerveja, temperatura
 <img width="1913" height="1031" alt="image" src="https://github.com/user-attachments/assets/6c619133-992c-43d7-be50-96f0f3618a92" />
+
+## Certificado do curso de powerbi do enap
+<img width="1101" height="765" alt="image" src="https://github.com/user-attachments/assets/c595af15-b526-430a-9586-a2875a2394d9" />
+<img width="1082" height="762" alt="image" src="https://github.com/user-attachments/assets/ecd0f50c-76df-4416-b04d-b01350b8dae9" />
+
+

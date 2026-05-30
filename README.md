@@ -55,3 +55,5 @@ B-) Em qual ano a média de movimentações foi maior que zero?
 [idade_media_casamento.xlsx](https://github.com/user-attachments/files/28414122/idade_media_casamento.xlsx)
 [nupcialidade.xlsx](https://github.com/user-attachments/files/28414264/nupcialidade.xlsx)
 
+
+

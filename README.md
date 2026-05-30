@@ -51,4 +51,7 @@ B-) Em qual ano a média de movimentações foi maior que zero?
 <img width="1101" height="765" alt="image" src="https://github.com/user-attachments/assets/c595af15-b526-430a-9586-a2875a2394d9" />
 <img width="1082" height="762" alt="image" src="https://github.com/user-attachments/assets/ecd0f50c-76df-4416-b04d-b01350b8dae9" />
 
+## Prova da professora adriana
+[idade_media_casamento.xlsx](https://github.com/user-attachments/files/28414122/idade_media_casamento.xlsx)
+[nupcialidade.xlsx](https://github.com/user-attachments/files/28414264/nupcialidade.xlsx)
 
